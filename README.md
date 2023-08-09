@@ -32,7 +32,14 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
+HOME PAGE:
+https://user-images.githubusercontent.com/115523950/243909076-7b662cde-9e71-43be-80c5-5d0838f55fd7.png
 
+LOGIN PAGE:
+https://user-images.githubusercontent.com/115523950/243909198-3cc1fba8-90be-4d8a-a116-408f6074dfc7.png
+
+SEC PAGE:
+https://user-images.githubusercontent.com/115523950/243909277-f903749a-da71-4f06-b556-a4d5a742b728.png
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
